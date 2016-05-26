@@ -23,3 +23,10 @@ function changeImage() {
 
 // setInterval is also in milliseconds
 setInterval(changeImage,5000);
+
+// setInterval is also in milliseconds
+var intervalHandle = setInterval(changeImage,5000);
+
+myImage.onclick =  function() {
+	clearInterval(intervalHandle);
+};
