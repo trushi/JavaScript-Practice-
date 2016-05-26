@@ -33,3 +33,4 @@ console.log("Links in navItems: ", myLinks.length);
 // or even combined
 var x = document.getElementById("mainNav").getElementsByTagName("a");
 console.log("Links in mainNav: ", x.length);
+
