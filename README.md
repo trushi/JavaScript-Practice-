@@ -1,4 +1,3 @@
 # JavaScript-Playground
 Example code for better understanding for JavaScript.
-My play ground for practicing JavaScript 
-I have implmented some fundametals concept of the language.
+I have implmented some basic examples for my own understading.
